@@ -1,34 +1,68 @@
-# Foobar
+# Version Control Dengan Git
 
-Foobar is a Python library for dealing with word pluralization.
+Latihan Version Control dengan Git melalui GitHub. Commnad yang dilakukan meluputi init, add, remote, commit, push, branch, pull, fetch, dan merge.
 
-## Installation
+### Init
+Inisiasi local folder menjadi git repo
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+![init](images\init.PNG)
 
-```bash
-pip install foobar
-```
+### Add
+Menambahkan satu file
 
-## Usage
+![add_one](images\addOneFile.PNG)
 
-```python
-import foobar
+Menambahkan semua file
 
-# returns 'words'
-foobar.pluralize('word')
+![add_all](images\addAll.PNG)
 
-# returns 'geese'
-foobar.pluralize('goose')
+Menambahkan folder
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+![add_folder](images\addFolder.PNG)
 
-## Contributing
+### Remote
+Menambahkan url remote repoke local repo
+![remote](images\remoteAddOrigin.PNG)
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+### Commit
+Melakukan commit atau snapshot pada local repo
 
-Please make sure to update tests as appropriate.
+![commit](images\commit.PNG)
 
-## License
+### Push
+Melakukan push file yang telah di commit ke remote repo
+
+![push](images\push.PNG)
+
+### Fetch
+Mengecek perubahan aktivitas di remote repo 
+
+![fetch](images\fetchOrigin.PNG)
+
+### Pull
+Menarik/mengambil perubahan pada remote repo ke local repo
+
+![pull](images\pull.PNG)
+
+### Branch
+Membuat branch dengan nama landing page
+
+![branch](images\createBranch.PNG)
+
+### Merge
+Melakukan merge dengan branch landing_page pada branch utama
+
+![merge](images\merge.PNG)
+
+### Status
+Melakukan pengecekan aktivitas pada version control
+
+![status](images\gitStatus.PNG)
+
+### Log
+Melakukan pengecekan log pada version control
+
+![log](images\log.PNG)
+
+## Author
+Leonardo Dwigantoro
