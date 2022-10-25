@@ -1,6 +1,6 @@
 # Version Control Dengan Git
 
-Latihan Version Control dengan Git melalui GitHub. Commnad yang dilakukan meluputi init, add, remote, commit, push, branch, pull, fetch, dan merge.
+Latihan Version Control dengan Git melalui GitHub. Command yang dilakukan meliputi init, add, remote, commit, push, branch, pull, fetch, dan merge.
 
 ### Init
 Inisiasi local folder menjadi git repo
