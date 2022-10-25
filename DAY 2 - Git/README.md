@@ -5,12 +5,12 @@ Latihan Version Control dengan Git melalui GitHub. Commnad yang dilakukan melupu
 ### Init
 Inisiasi local folder menjadi git repo
 
-![init](images\init.PNG)
+![init](images/init.PNG)
 
 ### Add
 Menambahkan satu file
 
-![add_one](images\addOneFile.PNG)
+![add_one](images/addOneFile.PNG)
 
 Menambahkan semua file
 
@@ -22,6 +22,7 @@ Menambahkan folder
 
 ### Remote
 Menambahkan url remote repoke local repo
+
 ![remote](images\remoteAddOrigin.PNG)
 
 ### Commit
