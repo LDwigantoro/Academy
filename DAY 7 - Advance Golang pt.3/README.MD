@@ -1,5 +1,5 @@
 ## Advance Golang pt.3
-Buat satu aplikasi CRUD dengan golang menggunakan clean 1rchitecture yang terkoneksi dengan database. Hasil Program dibawah adalah hasil eksplorasi mandiri ynag terdapat pada folder EksplorasiMandiri, untuk program yang dibuat dikelas dan menjadi tugas dapat dilihat di folder BelajarDiKantorDanTugas.
+Buat satu aplikasi CRUD dengan golang menggunakan clean architecture yang terkoneksi dengan database. Hasil Program dibawah adalah hasil eksplorasi mandiri ynag terdapat pada folder EksplorasiMandiri, untuk program yang dibuat dikelas dan menjadi tugas dapat dilihat di folder BelajarDiKantorDanTugas.
 
 ### Membuat Data Buku Baru
 ![buat-user](images/1.PNG)
